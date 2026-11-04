@@ -11,7 +11,7 @@ Final-year Computer Science student and CN Yang Scholar at NTU Singapore. I make
 | **Atmospheric scattering** · KTH, Computer Graphics & Interaction | Rendering how sunlight scatters through the atmosphere to colour the sky. | [Code](https://github.com/earlgreymt/dh2323-atmospheric-scattering) |
 | **TrueFind SG** · DSTA BrainHack 2025 Finalist | AI-powered shopping aggregator that flags counterfeit products. | [Code](https://github.com/Shapriyan19/TrueFindSg) |
 | **Sports Buddies** | App that matches people to sports activities and partners. | [Code](https://github.com/niclee1803/SportsBuddies) |
-| **Full-stack learning projects** | 8 projects from my MERN certification. | [Code](https://github.com/dharshiniyay/fullstack-learning-projects) |
+| **Full-stack learning projects** | 8 projects from my MERN certification. | [Code](https://github.com/dharshiniyay/emc-fullstack-learning-projects) |
 
 ### Currently
 Final-year project at Monash University: a deepfake detector for partial video edits whose explanations are verifiably faithful by design. Code is private until the project is complete.
